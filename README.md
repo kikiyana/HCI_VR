@@ -1,6 +1,7 @@
 # HCI_VR
 HCI&amp;VR course project, about Resident Evil.
 
+文件太大传不上去
 
 ## 配置
 unity版本：2021.1
